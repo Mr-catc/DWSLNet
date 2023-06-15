@@ -1,5 +1,5 @@
 # DWSLNet
-This repository is the official implementation of "A dual-branch weakly supervised learning based network for accurate mapping of woody vegetation from remote sensing images".
+This repository is the official implementatio.
 # Introduction
 Network framework
 ![](https://github.com/Mr-catc/DWSLNet/blob/main/resources/Network.png "")
