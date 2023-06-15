@@ -1,5 +1,5 @@
 # DWSLNet
-This repository is the official implementatio.
+This repository is the official implementation.
 # Introduction
 Network framework
 ![](https://github.com/Mr-catc/DWSLNet/blob/main/resources/Network.png "")
