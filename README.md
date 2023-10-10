@@ -7,6 +7,6 @@ Youwei Cheng, Shaocheng Lan, Xijian Fan, Tardi Tjahjadi, Shichao Jin, Lin Cao
 Network framework
 ![](https://github.com/Mr-catc/DWSLNet/blob/main/resources/Network.png "")
 ## Run
-'python run_sample.py'
+`python run_sample.py`
 ## Acknowledgment
 Thanks to [irn](https://github.com/jiwoon-ahn/irn)
